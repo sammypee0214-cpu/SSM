@@ -4,4 +4,4 @@ portfolio-app/
   .gitignore        (rename your "_gitignore" file to this)
   public/
     login.html
-    app.html
+    app.html 
