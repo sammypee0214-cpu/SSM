@@ -1,2 +1,7 @@
-data/
-node_modules/
+portfolio-app/
+  server.js
+  package.json
+  .gitignore        (rename your "_gitignore" file to this)
+  public/
+    login.html
+    app.html
